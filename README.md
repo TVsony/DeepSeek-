@@ -46,3 +46,10 @@ Demand may grow for specialized, cost-effective chips tailored to efficient mode
 
 Conclusion: DeepSeek exemplifies how constraints breed innovation. By prioritizing efficiency and openness, it challenges both AI incumbents and hardware providers. The future likely holds a decentralized AI ecosystem where foundational models are ubiquitous, and creativity in applications defines success—a paradigm that could democratize AI’s benefits globally.
 
+##GEN AI WITH DEEPSEEK-R1 
+
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/61acce94-402e-4669-985d-44a9038d76dc" />
+## Here You can explore GEN AI WITH DEEPSEEK 
+
+
+
